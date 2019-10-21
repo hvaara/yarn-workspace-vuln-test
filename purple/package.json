@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "set-value": "0.4.3"
+    "set-value": "3.0.1"
   }
 }
